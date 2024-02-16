@@ -29,3 +29,4 @@ func conditioner(tRoom, tCond int, mode string) int {
 	}
 	return tRoom
 }
+r
